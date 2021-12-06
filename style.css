@@ -22,7 +22,8 @@ body {
 }
 
 .container1 {
-  width: 10em;
+  width: 6em;
+ 
   display: flex;
   margin-left: 35%;
   justify-content: center;
@@ -38,10 +39,11 @@ body {
 }
 .card1 {
   transform-style: preserve-3d;
-  min-height: 80vh;
-  width: 35rem;
+  
+  min-height: 70vh;
+  width: 30rem;
   border-radius: 30px;
-  padding: 0rem 5rem;
+  padding: 0rem 3rem;
   box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2), 0px 0px 50px rgba(0, 0, 0, 0.2);
 }
 
