@@ -30,7 +30,7 @@ body {
 }
 .card {
   transform-style: preserve-3d;
-  min-height: 82vh;
+  min-height: 80vh;
   width: 35rem;
   border-radius: 30px;
   padding: 0rem 5rem;
