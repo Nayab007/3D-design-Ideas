@@ -14,9 +14,9 @@ body {
   background-image: url(./image/Blu.jpg);
 }
 .container {
-  width: 10em;
+  width: 8em;
   display: flex;
-  margin-left: -5%;
+  margin-left: -7%;
   justify-content: center;
   align-items: center;
 }
