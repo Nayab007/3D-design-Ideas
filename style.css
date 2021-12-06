@@ -178,6 +178,7 @@ button.active1 {
 .purchase1 button {
   width: 100%;
   padding: 1rem 0rem;
+  margin-bottom: 1rem;
   background: linear-gradient(to left, #77a1d3, #79cbca, #e684ae);
   border: none;
   color: white;
