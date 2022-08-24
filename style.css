@@ -11,7 +11,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  perspective: 1000px;
   background-image: url(./image/Blu.jpg);
 }
 .container {
